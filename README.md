@@ -1,4 +1,4 @@
-# Privacy Policy for VaultNote Editor
+# Privacy Policy for VaultNote
 
 **Effective Date:** November 10, 2026  
 **Developer / Studio:** Driem Studio  
